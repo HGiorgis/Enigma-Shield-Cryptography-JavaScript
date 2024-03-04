@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Enigma Shield</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="cryptograph.js"></script>
+  
+</head>
+<body>
+  <div class="container">
+    <h1>Enigma Shield</h1>
+    <div class="btn">
+      <button type="button" onclick="delayedEncryptText(), delayedSet()">Encrypt</button>
+      <button type="button" onclick="delayedDecryptText(), delayedSet()">Decrypt</button>
+    </div>
+    <div class="textplace">
+      <textarea name="text" id="inputField" cols="30" rows="10" placeholder="Text here"></textarea>
+      <div id="outputField"></div>
+    </div>
+    <div class="msg">Scanning Data</div>
+  </div>
+</body>
+</html>
