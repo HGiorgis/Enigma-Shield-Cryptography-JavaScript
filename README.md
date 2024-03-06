@@ -1,7 +1,5 @@
 <div align='center'>
 
-<img src="https://i.ytimg.com/an_webp/Az2un830hB4/mqdefault_6s.webp?du=3000&sqp=CLbsoa8G&rs=AOn4CLB-ib8tzYRiQraZ-yOCBJEcqx5oFA alt="logo" width=700 height=500 />
-
 <h1>Cryptography with JavaScript</h1>
 <p>Algorithm built with Hailegiorgs W. using javascript | encrypt message and hash it with generated string.</p>
 
